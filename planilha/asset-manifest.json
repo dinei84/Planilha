@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dinei84/static/css/main.21bf0087.css",
+    "main.js": "/dinei84/static/js/main.71829a9f.js",
+    "index.html": "/dinei84/index.html",
+    "main.21bf0087.css.map": "/dinei84/static/css/main.21bf0087.css.map",
+    "main.71829a9f.js.map": "/dinei84/static/js/main.71829a9f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21bf0087.css",
+    "static/js/main.71829a9f.js"
+  ]
+}
